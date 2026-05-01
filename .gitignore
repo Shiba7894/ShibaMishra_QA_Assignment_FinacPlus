@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment variables (never commit credentials)
+.env
+
+# Allure reports
+allure-results/
+allure-report/
+
+# Logs
+logs/
+
+# Test results
+test-results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
